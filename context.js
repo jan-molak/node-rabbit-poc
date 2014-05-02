@@ -1,0 +1,1 @@
+module.exports = require('rabbit.js').createContext('amqp://localhost:5672');
